@@ -1,2 +1,3 @@
 By Nroskill
+
 双击程序可以生成Guid并复制到剪贴板
